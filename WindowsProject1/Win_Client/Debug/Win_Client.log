@@ -1,0 +1,3 @@
+﻿  Win_Client.cpp
+C:\Users\mvat1\source\repos\WindowsProject1\Win_Client\Win_Client.cpp(54,53): warning C4390: ';': empty controlled statement found; is this the intent?
+  Win_Client.vcxproj -> C:\Users\mvat1\source\repos\WindowsProject1\Debug\Win_Client.exe
